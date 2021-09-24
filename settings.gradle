@@ -1,0 +1,2 @@
+rootProject.name='BlockChain'
+include ':app', ':core', ':signlibrary', ':bugly_crashreport_upgrade-1.5.0'
